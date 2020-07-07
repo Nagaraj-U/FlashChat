@@ -18,6 +18,6 @@ FlashChat is a modern messaging App built using flutter (where users can sign up
 
 
 
-<img src="https://user-images.githubusercontent.com/54663987/86792704-5efdd480-c088-11ea-90cf-cea25966ee58.png" width="250" height="450" > <img src="https://user-images.githubusercontent.com/54663987/86794195-da13ba80-c089-11ea-94ed-003f65072eeb.png" width="250" height="450" >
+<img src="https://user-images.githubusercontent.com/54663987/86792704-5efdd480-c088-11ea-90cf-cea25966ee58.png" width="250" height="450" >          <img src="https://user-images.githubusercontent.com/54663987/86794195-da13ba80-c089-11ea-94ed-003f65072eeb.png" width="250" height="450" >
 
 
