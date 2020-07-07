@@ -9,7 +9,7 @@ FlashChat is a modern messaging App built using flutter (where users can sign up
 - Incorporating Firebase into your Flutter projects.
 - Using Firebase authentication to register and sign in users.
 - Creating animations using the Flutter Hero widget.
-- Using Dart OOP concepts.
+- Using Dart OOP concepts to Protect and Refactor the code.
 - Creating custom aniamtions using Flutter's animation controller. 
 - Using Mixins and Streams.
 - Using ListViews to build scrolling views.
