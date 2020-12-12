@@ -5,7 +5,7 @@
 FlashChat is a modern messaging App built using flutter (where users can sign up and login to chat) using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
 
 
-## This project deals with concepts of :
+## This project includes concepts of :
 
 - Incorporating Firebase into your Flutter projects.
 - Using Firebase authentication to register and sign in users.
