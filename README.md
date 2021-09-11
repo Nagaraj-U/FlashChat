@@ -2,7 +2,7 @@
 # Flash Chat 
 
 
-Messaging App built using flutter (where users can sign up and login to chat) using Firebase Cloud Firestore and Firebase authentication package to equip app with a cloud-based NoSQL database and secure authentication methods. 
+Messaging App built using flutter (where users can sign up and login to chat) using Firebase Cloud Firestore and Firebase authentication package to equip app with a    cloud-based NoSQL database and secure authentication methods. 
 
 
 ## This project includes concepts of :
